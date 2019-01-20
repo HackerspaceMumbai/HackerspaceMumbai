@@ -1,10 +1,22 @@
 # ProtoSchool Mumbai
 
-_TODO: Add a welcome message introducting [ProtoSchool](https://proto.school) and your chapter's activities._
+ नमस्कार मुंबई 🙏.
+
+Welcome to the Mumbai "chapter" 😊 of the [ProtoSchool](https://proto.school) in which we learn, with interactive tutorials, decentralized web protocols.
 
 ## Organizers
 
-_TODO: Introduce your organizer(s)!_
+Hackerspace Mumbai, the city's largest #OSS community, will be conducting the tutorials as part of their monthly Mumbai Technology Meetup [#mumtechup]. The mandate of the group is to increase and enhance internet citizenship amongst its denizen and also give an opportunity to techies to contribute to the society at large. Proto.school will be one of the initiative along #freecodecamp where newbies are taught to be full stack developer & #netsquared where techies help to mentor non-profits and NGOs.
+
+Coordinates:
+
+[Facebook](https://fb.com/hackmum)
+
+[Twitter](https://twitter.com/hackmum)
+
+[Email](community@hackmum.in)
+
+We are looking for co-organizers and encourage you to apply.
 
 ## Code of Conduct
 
