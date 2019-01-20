@@ -24,7 +24,7 @@ In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone.
 
-By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](/CODE_OF_CONDUCT.mdCODE_OF_CONDUCT.md).
+By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 
 ## License
