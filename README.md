@@ -1,22 +1,26 @@
-# ProtoSchool Mumbai
+# Hackerspace Mumbai
 
-## नमस्कार मुंबई, विकेंद्रीकरण होऊ 🙏
+## नमस्कार 🙏
 
-Welcome to the Mumbai "chapter" 😊 of [ProtoSchool](https://proto.school) where we learn, share and master the decentralized web 💻protocols. Get familiar with esoteric acronyms & terms like IPFS [Interplanetary File System], Filecoin, libp2p etc via interactive tutorials and collaborate with fellow enthusiasts on projects that make a difference.
+We are Mumbai's largest independent tech community who have been organizing the city's longest-running tech meetup (over nine years).
 
-***Decentralizers of the world, assemble [max... once a month 😁]***
+## So what we do AND why?
 
-Join us for our first meetup on 16th Feb 2019.
+Our goal is to widen and deepen the sense of internet citizenship of the city's residents. And benefit the society and have fun while doing it. Good Karma. 😀
 
-## Organizers
+We do this through 3 initiatives:
 
-Hackerspace Mumbai, the city's largest #OSS community, will be running the chapter as part of their monthly Mumbai Technology Meetup [#mumtechup]. The mandate of the community is to increase and enhance internet citizenship amongst its denizen and also give an opportunity to techies to contribute to the society at large. Proto.school will be one of the initiative along with#freecodecamp where newbies are taught to be full stack developer & #netsquare where techies help to mentor non-profits and NGOs.
+    1. **Mumbai Technology Meetup #mumtechup**: We host a minimum of one meetup a month dedicated to technologies [mostly #OSS] where our target audience is intermediate developers.
 
-Coordinates:
+    2. **[freeCodeCamp](https://www.freecodecamp.org/)**: We are one of the earliest fCC bootcamp in India where we provide a supportive community for folks beginning to code.
 
-[Facebook](https://fb.com/hackmum)
+    3. **[ProtoSchool](https://proto.school/)**: We are proud to support a "decentralized" web.
+
+## Get in touch
 
 [Twitter](https://twitter.com/hackmum)
+
+[Facebook](https://fb.com/hackmum)
 
 [Email](community@hackmum.in)
 
@@ -24,12 +28,10 @@ We are looking for co-organizers and encourage you to apply.
 
 ## Code of Conduct
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone.
 
-By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](/CODE_OF_CONDUCT.md)
+By participating in this project (online and at live events), you agree to abide by its [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 ## License
 
-ProtoSchool is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
+Hackerspace Mumbai is licensed under the Apache-2.0 and MIT licenses. See [LICENSE.md](./LICENSE.md) for further detail.
