@@ -6,15 +6,15 @@ We are Mumbai's largest independent tech community who have been organizing the 
 
 ## So what we do AND why?
 
-Our goal is to widen and deepen the sense of internet citizenship of the city's residents. And benefit the society and have fun while doing it. Good Karma. 😀
+Our goal is to widen and deepen the sense of internet citizenship of the city's residents. And benefits society and have fun while doing it. Good Karma. 😀
 
 We do this through 3 initiatives:
 
-    1. **Mumbai Technology Meetup #mumtechup**: We host a minimum of one meetup a month dedicated to technologies [mostly #OSS] where our target audience is intermediate developers.
+1. **[Mumbai Technology Meetup](https://www.meetup.com/Mumbai-Technology-Meetup/)**: We host a minimum of one meetup a month dedicated to technologies [mostly #OSS] where our target audience is intermediate developers. **#mumtechup**
 
-    2. **[freeCodeCamp](https://www.freecodecamp.org/)**: We are one of the earliest fCC bootcamp in India where we provide a supportive community for folks beginning to code.
+1. **[freeCodeCamp](https://www.freecodecamp.org/)**: We are one of the earliest fCC boot camps in India, providing a supportive community for folks beginning to code.
 
-    3. **[ProtoSchool](https://proto.school/)**: We are proud to support a "decentralized" web.
+1. **[ProtoSchool](https://proto.school/)**: We are proud to support a "decentralized" web and host meetups where folks can learn technologies for Web3.
 
 ## Get in touch
 
