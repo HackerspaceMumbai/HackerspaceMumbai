@@ -1,10 +1,12 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
+
+Everyone associated with the Hackerspace Mumbai community needs to adhere to this Code of Conduct.
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to ensure participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
+In the interest of fostering an open and welcoming environment, we as stewards[ that is as organizers,
+contributors, and maintainers] pledge to ensure participation in our projects and
+our community activities a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity, and expression,
 level of experience, education, social-economic status, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
@@ -33,11 +35,11 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
+Stewards are responsible for clarifying the standards of acceptable
 behavior and will take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or
+Stewards have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that do not align to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
@@ -49,17 +51,17 @@ This Code of Conduct applies to projects and public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project email
 address, posting via an official social media account, acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+representative at an online or offline event. Representation of a project/community may be
+further defined and clarified by project stewards.
 
 ## Enforcement
 
 Please report any instances of abuse, harassment, or unacceptable behavior to community@hackmum.in.
 
-All complaints will be reviewed, investigated, and responded in a manner that is deemed necessary and appropriate to the circumstances. The project team will maintain the confidentiality of the reporter of an incident.
+All complaints will be reviewed, investigated, and responded in a manner that is deemed necessary and appropriate to the circumstances. The stewards will maintain the confidentiality of the reporter of an incident.
 The project team may post additional details of specific enforcement policies separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
+Stewards who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
@@ -67,4 +69,4 @@ members of the project's leadership.
 
 We have adopted this Code of Conduct from the [Contributor Covenant homepage](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html), version 1.4,
 
-For answers to [common questions](https://www.contributor-covenant.org/faq) about this code of conduct
+Answers to [common questions](https://www.contributor-covenant.org/faq) about this code of conduct
